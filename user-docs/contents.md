@@ -27,4 +27,5 @@ This handbook or "User-Docs" isn't comprehensive. It's meant to help when you wa
 The best starting advice is to draft your project contents outside of Manifold. If you're comfortable in Microsoft Word or Google Docs, those are great places to start. 
 2. organize your materials
 Having your different files organized and well labelled will help as you build your project. We recommend using descriptive filenames with no spaces or special characters.
-3. 
+3. keep trying
+Manifold is relatively intuitive, but any new platform will take time to learn.This guide will discuss some suggestions for putting your project together (have a cover! have a brief description!), but the main decisions will be yours to make (am I constructing a single text of many sections? Or a project comprised of many texts? Do I want to publish a journal?) If you encounter issues, don't assume it's you. As with any open source project, you may encounter bugs and you may need to troubleshoot. [Manifold Community Slack](https://join.slack.com/t/manifold-community/shared_invite/zt-1z2hipgyr-aC7S0p5zCVJclJiKx9oakQ) is a great place to bring questions of any kind. 
